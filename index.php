@@ -9,7 +9,7 @@
 		<p><b>An Example of PHP in Action</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
-	<h2>xxxxxPHP Information</h2> 
-        <h2>xxxxxGOING ON VACATION</h2>
+	<h2>DIDID PHP Information</h2> 
+        <h2>DAHAHA GOING ON VACATION</h2>
 	</body> 
 </html>
